@@ -15,7 +15,7 @@ logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s
 #Logger Setup
 logger = logging.getLogger(__name__)
 
-TOKEN = "YOUR_TOKEN_HERE"
+TOKEN = "1598890888:AAHdg1KQTDROl4N4i-tDHD6_1u_s6M1Dx1o"
 
 def download(bot, update):
     message = update.effective_message
